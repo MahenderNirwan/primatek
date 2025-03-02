@@ -1,0 +1,21 @@
+{
+  "name": "startp-clone",
+  "version": "1.0.0",
+  "description": "Clone of the StartP template from EnvyTheme",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.2",
+    "jquery": "^3.7.1",
+    "popper.js": "^2.11.8",
+    "animate.css": "^4.1.1",
+    "font-awesome": "^6.5.1"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  },
+  "author": "",
+  "license": "MIT"
+} 
